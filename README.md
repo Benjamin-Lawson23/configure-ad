@@ -105,7 +105,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 5. You can now log into Client-1 as a normal, non-administrative user
 6. Any additional users created will all be able to log into client-1 
 
-  <b>End</b>
 </p>
 <br />
 
@@ -113,3 +112,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/e7LfeQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
+    <b>End</b>
