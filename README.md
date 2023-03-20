@@ -28,10 +28,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <h2>Step 1: In MS Azure, create a Server and a Client virtual Machine</h2>
 
 1. Create a Resource Group named 'RGAD1'
