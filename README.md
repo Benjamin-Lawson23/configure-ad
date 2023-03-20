@@ -113,4 +113,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
   
-<b>Congratulations! You have installed On-Premises Active Directory in Microsoft Azure</b>
+<b>Congratulations! You have installed on-Premises Active Directory in Microsoft Azure</b>
